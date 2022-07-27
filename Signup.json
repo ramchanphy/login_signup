@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "chan",
+            "password": "Chan12@",
+            "Profile": {
+                "description": "I love my family",
+                "D.O.B": "15/01/2003",
+                "Gender": "female",
+                "Hobbies": "basket ball,drawing,listening music"
+            }
+        }
+    ]
+}

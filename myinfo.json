@@ -1,0 +1,16 @@
+{
+    "user": [
+        {
+            "user": 1,
+            "username": "Ramchanphy",
+            "profile": {
+                "about": "I love spending time alone",
+                "gender": "female",
+                "hobbies": "listening music,watching drama,playing,drawing",
+                "date of birth": "15 january 2003",
+                "qualification": "12 standard",
+                "current address": "bangalore huskur"
+            }
+        }
+    ]
+}
